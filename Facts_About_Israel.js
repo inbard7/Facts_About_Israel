@@ -5095,7 +5095,7 @@ lib.properties = {
 	color: "#FFFFFF",
 	opacity: 1.00,
 	manifest: [
-		{src:"images/Facts_About_Israel_atlas_.png?1623745071160", id:"Facts_About_Israel_atlas_"}
+		{src:"images/Facts_About_Israel_atlas_.png?1623745199383", id:"Facts_About_Israel_atlas_"}
 	],
 	preloads: []
 };
